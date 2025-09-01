@@ -4,10 +4,10 @@ This repository contains my coding practice projects.
 Each project is small but designed to help me improve problem-solving and learn new technologies.
 
 ## 📂 Projects
-- [🧮 Calculator (CLI-based)](./Calculator) – A simple Python calculator.
-- [🐍 Snake Game (pygame)](./SnakeGame) – Classic snake game using pygame.
-- [🚀 Spaceship Shooter (pygame)](./SpaceshipShooter) – A space shooting arcade game.
-- [🌦️ Weather App (CLI-based)](./WeatherApp) – Real-time weather using OpenWeatherMap API.
+- [🧮 Calculator (CLI-based)](./Calculator/README.md) – A simple Python calculator.
+- [🐍 Snake Game (pygame)](./SnakeGame/README.md) – Classic snake game using pygame.
+- [🚀 Spaceship Shooter (pygame)](./SpaceshipShooter/README.md) – A space shooting arcade game.
+- [🌦️ Weather App (CLI-based)](./WeatherApp/README.md) – Real-time weather using OpenWeatherMap API.
 
 ## 🛠️ Tech Stack
 - Python

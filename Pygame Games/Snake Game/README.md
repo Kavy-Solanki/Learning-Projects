@@ -1,23 +1,23 @@
+# 🐍 Snake Game (pygame)
 
----
-
-# 📂 **Snake Game (pygame) – `README.md`**
-```markdown
-# 🐍 Snake Game
-
-A recreation of the classic Snake Game using Python and Pygame.
-
-## ✨ Features
-- Snake grows when eating food
-- Game over when hitting walls or itself
-- Score tracking
-- Smooth controls (WASD / Arrow keys)
-
-## 🛠️ Tech Stack
-- Python 3
-- Pygame
+A classic Snake Game built with Python and Pygame.  
+The player controls the snake to eat food, and the snake grows longer with each bite.
 
 ## 🚀 How to Run
-1. Install pygame:
-   ```bash
-   pip install pygame
+```bash
+python snake.py
+
+🎮 Controls
+Arrow Keys / WASD → Move snake
+
+✨ Features
+Snake grows after eating food
+
+Score increases dynamically
+
+Game over when snake hits walls or itself
+
+🛠️ Tech Stack
+Python
+
+Pygame

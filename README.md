@@ -1,8 +1,3 @@
-
----
-
-# 📂 **Main Repo README (Learning Projects) – `README.md`**
-```markdown
 # 📘 Learning Projects
 
 This repository contains my coding practice projects.  
